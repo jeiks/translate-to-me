@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "Translate to me",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Translate the selected text.",
+    "description": "Description of the add-on."
+  },
+
+  "contextMenuItemSelection": {
+    "message": "Translate '%s' to me",
+    "description": "Title of context menu item."
+  }
+
+}

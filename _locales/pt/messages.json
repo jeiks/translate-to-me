@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "Traduza para mim",
+    "description": "Nome da extensão."
+  },
+
+  "extensionDescription": {
+    "message": "Traduz o texto selectionado usando o 'www.linguee.com'.",
+    "description": "Descrição do add-on."
+  },
+
+  "contextMenuItemSelection": {
+    "message": "Traduza '%s' para mim",
+    "description": "Título do item do menu de contexto."
+  }
+
+}
